@@ -1,0 +1,27 @@
+{
+  "name": "first-cicd-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennisale98-dev/first-cicd-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bennisale98-dev/first-cicd-project/issues"
+  },
+  "homepage": "https://github.com/bennisale98-dev/first-cicd-project#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
+"scripts": {
+  "test": "jest"
+}
