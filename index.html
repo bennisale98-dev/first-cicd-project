@@ -1,1 +1,18 @@
 <h1>My First CI/CD Project</h1> 
+name: First CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Display Message
+        run: echo "CI/CD Pipeline is running successfully!"
