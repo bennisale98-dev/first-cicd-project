@@ -12,7 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/bennisale98-dev/first-cicd-project/issues"
+    "url": "https://github.com/bennisale98-adev/first-cicd-project/issues"
   },
   "homepage": "https://github.com/bennisale98-dev/first-cicd-project#readme",
   "devDependencies": {
@@ -21,4 +21,4 @@
   "scripts": {
     "test": "jest"
   }
-} 
+}
